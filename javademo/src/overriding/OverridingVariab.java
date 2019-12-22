@@ -5,7 +5,7 @@ class ParentVar{
 	int x=342;
 }
 class ChildVar extends ParentVar{
-	int x=431;
+	Long x=431L;
 }
 
 
